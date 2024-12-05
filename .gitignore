@@ -1,3 +1,5 @@
+# Prevent large fire data folder from uploading to git
+/data/fire.gdb
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

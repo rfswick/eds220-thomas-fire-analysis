@@ -1,1 +1,1 @@
-# eds220-thomas-fire-analysis
+2017 Thomas Fire Analysis
